@@ -13,7 +13,7 @@ public class C01_ForLoop {
 
         for (int i = 1; i <=10 ; i++) {
             System.out.print((char)(alinanKarakter+i) + " ");
-
+            System.out.println("sdasd");
         }
 
 
