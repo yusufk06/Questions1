@@ -15,7 +15,7 @@ public class C01_ForLoop {
             System.out.print((char)(alinanKarakter+i) + " ");
             System.out.println("sdasd");
         }
-//test
+
 
 
     }
